@@ -1,0 +1,13 @@
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\obj\Debug\netcoreapp3.1\day5.csprojAssemblyReference.cache
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\obj\Debug\netcoreapp3.1\day5.AssemblyInfoInputs.cache
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\obj\Debug\netcoreapp3.1\day5.AssemblyInfo.cs
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\obj\Debug\netcoreapp3.1\day5.csproj.CoreCompileInputs.cache
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\bin\Debug\netcoreapp3.1\day5.exe
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\bin\Debug\netcoreapp3.1\day5.deps.json
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\bin\Debug\netcoreapp3.1\day5.runtimeconfig.json
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\bin\Debug\netcoreapp3.1\day5.runtimeconfig.dev.json
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\bin\Debug\netcoreapp3.1\day5.dll
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\bin\Debug\netcoreapp3.1\day5.pdb
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\obj\Debug\netcoreapp3.1\day5.dll
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\obj\Debug\netcoreapp3.1\day5.pdb
+E:\day 2 repository\c# programs\New folder (2)\day5\day5\obj\Debug\netcoreapp3.1\day5.genruntimeconfig.cache
